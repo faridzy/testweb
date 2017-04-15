@@ -1,0 +1,22 @@
+.body_login {
+	background-color: #F8DA56;
+}
+.outor-form-login {
+	margin-top: 35%;
+}
+.btn-custom-green {
+	background-color: #034b07;
+	color: #fff;
+}
+.btn:hover {
+	color: #000 !important;
+}
+.in-login {
+	background-color: #ded;
+	padding: 20px;
+	border-radius: 5px;
+	position: relative;
+}
+.in-login h3 {
+	text-transform: uppercase;
+}
